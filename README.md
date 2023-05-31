@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soarinskysagar&label=Profile%20views&color=0e75b6&style=flat" alt="soarinskysagar" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=soarinskysagar" alt="soarinskysagar" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=SoarinSkySagar&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p align="left"> <a href="https://twitter.com/soarinskysagar" target="blank"><img src="https://img.shields.io/twitter/follow/soarinskysagar?logo=twitter&style=for-the-badge" alt="soarinskysagar" /></a> </p>
 
