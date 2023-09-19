@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Frontend Web Development**
 
-- 🏫I'm currently a fresher studying at **Heritage Institute of Technology, Kolkata**
+- 🏫I'm currently a sophomore studying at **Heritage Institute of Technology, Kolkata**
 
 - 📫 How to reach me **sagarrana.pvt@gmail.com**
 
